@@ -1,6 +1,6 @@
 package testcase;
 
-public class Gitpushh2 {
+public class Gitpushh22 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
